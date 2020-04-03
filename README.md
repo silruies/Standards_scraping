@@ -8,9 +8,9 @@ En esta práctica se ha utilizado dicha página web para extraer las normativas 
 DESCRIPCION DE LO QUE OBTENEMOS
 
 ## Miembros del equipo
-Stela Diez Alonso
-Silvia Ruiz España
++ Stela Diez Alonso 
++ Silvia Ruiz España
 
 ## Recursos utilizados
-Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
++ Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
++ Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
