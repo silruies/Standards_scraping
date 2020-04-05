@@ -13,3 +13,6 @@ DESCRIPCION DE LO QUE OBTENEMOS
 ## Recursos utilizados
 + Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
 + Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
++ https://ec.europa.eu/growth/content/ce-marking-construction-products-step-step-guide-now-available-all-eu-languages-0_en
++ https://ec.europa.eu/growth/tools-databases/nando/index.cfm?fuseaction=help.main
++ https://ec.europa.eu/info/legal-notice_es
