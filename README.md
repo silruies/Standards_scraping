@@ -11,8 +11,9 @@ Este trabajo se corresponde con la práctica 1 de la asignatura Tipología y cic
 Página web utilizada: https://ec.europa.eu/growth/tools-databases/nando/index.cfm?fuseaction=cp.hs&cpr=Y
 
 ## Descripción del contenido
-* **PRACT 1 - Web Scrapping.pdf**: Documento de respuesta a las preguntas propuestas en la práctica   
-* **PRACT1.py**: Programa principal para llevar a cabo el proceso de scraping  
+* En la carpeta pdf: **PRACT 1 - Web Scrapping.pdf**: Documento de respuesta a las preguntas propuestas en la práctica.    
+* En la carpeta csv: **Standards.csv**: Fichero CSV con los datos obtenidos.  
+* En la carpeta code: **PRACT1.py**: Programa principal para llevar a cabo el proceso de scraping  
 * **README**: Documento informativo con el resumen de la descripción general 
 
 ## Recursos
