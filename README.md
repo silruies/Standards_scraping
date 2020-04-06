@@ -17,7 +17,7 @@ Página web utilizada: https://ec.europa.eu/growth/tools-databases/nando/index.c
 ## Descripción del contenido
 * **./pdf/PRACT 1 - Web Scrapping.pdf**: Documento de respuesta a las preguntas propuestas en la práctica.    
 * **./csv/Standards.csv**: Fichero CSV con los datos obtenidos.  
-* **./code/PRACT1.py**: Programa principal para llevar a cabo el proceso de scraping  
+* **PRACT1.py**: Programa principal para llevar a cabo el proceso de scraping  
 * **README**: Documento informativo con el resumen de la descripción general 
 
 ## Recursos
